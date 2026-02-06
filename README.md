@@ -32,9 +32,6 @@ I believe in continuous growth, adapting to new tools and trends, and delivering
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" alt="JavaScript"/><br>JavaScript
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" alt="React"/><br>React
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" alt="Bootstrap"/><br>Bootstrap
     </td>
   </tr>
