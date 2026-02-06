@@ -3,7 +3,7 @@
 🎯 **Front-End Developer | Responsive Web Specialist | Lifelong Learner**
 
 I am a passionate Front-End Developer focused on building **clean, responsive, and user-friendly websites**.  
-I enjoy turning design ideas into **pixel-perfect code** and constantly **learning new technologies** to improve my skills, including **React, modern JavaScript frameworks, and UI/UX best practices**.
+I enjoy turning design ideas into **pixel-perfect code** and constantly **learning new technologies**, including **React and modern JavaScript frameworks**.
 
 I believe in continuous growth, adapting to new tools and trends, and delivering quality work in every project I undertake.
 
@@ -18,40 +18,54 @@ I believe in continuous growth, adapting to new tools and trends, and delivering
 
 ---
 
-## 💻 Front-End Skills
+## 🛠️ Tech Stack
 
-### 🧠 Core
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (ES6+)**  
-
-### 🎨 Layout & Styling
-- Responsive Web Design (Mobile / Tablet / Desktop)  
-- Flexbox & CSS Grid  
-- Semantic HTML and clean CSS structure  
-- Modern UI/UX principles  
-
-### 📦 Tools
-- VS Code  
-- Git & GitHub  
-- Chrome DevTools  
-
-### 💡 Concepts
-- Mobile-first and responsive design  
-- Accessibility basics  
-- Cross-browser compatibility  
-- Continuous learning of new technologies (React, modern JS frameworks)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" alt="HTML5"/><br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" alt="CSS3"/><br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" alt="JavaScript"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" alt="React"/><br>React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" alt="Bootstrap"/><br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" alt="Git"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" alt="GitHub"/><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="50" alt="Java"/><br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" alt="MySQL"/><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" alt="Sass"/><br>Sass
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Projects
+## 💻 Projects
 
 ### 📌 **Omnifood – Responsive Landing Page**
 A fully responsive landing page for a healthy food delivery service.  
 - Built with **HTML, CSS, and JavaScript**  
 - Modern UI/UX design with smooth scrolling and interactive sections  
 - Includes hero section, features, meals, pricing, and call-to-action  
-- **Focus on clean code and responsive design**
 
 🔗 [GitHub Repository](https://github.com/FaresSoliman99/Omnifood)
 
@@ -83,5 +97,3 @@ Whether you have a question, an opportunity, or just want to chat, feel free to 
 
 📧 fareselsokary8@gmail.com  
 📱 01097355026
-
----
