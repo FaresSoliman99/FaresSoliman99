@@ -40,8 +40,7 @@ I believe in continuous growth, adapting to new tools and trends, and delivering
 A fully responsive landing page for a healthy food delivery service.  
 - Built with **HTML, CSS, and JavaScript**  
 - Modern UI/UX design with smooth scrolling and interactive sections  
-- Includes hero section, features, meals, pricing, and call-to-action  
-- **Live Demo:** [Click Here](https://faressoliman99.github.io/Omnifood/)  
+- Includes hero section, features, meals, pricing, and call-to-action    
 - **GitHub:** [Repository](https://github.com/FaresSoliman99/Omnifood)
 
 ---
@@ -51,7 +50,6 @@ Responsive landing page for a library showcasing featured books and categories.
 - Built with **HTML, CSS, and JavaScript**  
 - Structured, user-friendly layout with focus on readability and usability  
 - Emphasizes responsive design and semantic HTML structure  
-- **Live Demo:** [Click Here](https://faressoliman99.github.io/Library/)  
 - **GitHub:** [Repository](https://github.com/FaresSoliman99/Library)
 
 ---
