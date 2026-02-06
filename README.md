@@ -3,7 +3,7 @@
 🎯 **Front-End Developer | Responsive Web Specialist | Lifelong Learner**
 
 I am a passionate Front-End Developer focused on building **clean, responsive, and user-friendly websites**.  
-I enjoy turning design ideas into **pixel-perfect code** and constantly **learning new technologies**, including **React and modern JavaScript frameworks**.
+I enjoy turning design ideas into **pixel-perfect code** and constantly **learning new technologies**, including **React, Tailwind CSS, and modern JavaScript frameworks**.
 
 I believe in continuous growth, adapting to new tools and trends, and delivering quality work in every project I undertake.
 
@@ -11,39 +11,25 @@ I believe in continuous growth, adapting to new tools and trends, and delivering
 
 ## 📞 Contact Me
 
-📱 **Phone:** 01097355026  
-📧 **Email:** fareselsokary8@gmail.com  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/faressoliman99/](https://www.linkedin.com/in/faressoliman99/)  
-💻 **GitHub:** [https://github.com/FaresSoliman99](https://github.com/FaresSoliman99)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FaresSoliman-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/faressoliman99/)  
+[![GitHub](https://img.shields.io/badge/GitHub-FaresSoliman-black?logo=github&style=flat-square)](https://github.com/FaresSoliman99)  
+[![Email](https://img.shields.io/badge/Email-fareselsokary8@gmail.com-red?logo=gmail&style=flat-square)](mailto:fareselsokary8@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-01097355026-green?style=flat-square)](tel:01097355026)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" alt="HTML5"/><br>HTML5
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" alt="CSS3"/><br>CSS3
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" alt="JavaScript"/><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" alt="Bootstrap"/><br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" alt="Git"/><br>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" alt="GitHub"/><br>GitHub
-    </td>
-  </tr>
-</table>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)]()  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)]()  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)]()  
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)]()  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)]()  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)]()  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)]()  
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)]()  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)]()  
+[![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)]()  
 
 ---
 
@@ -54,8 +40,8 @@ A fully responsive landing page for a healthy food delivery service.
 - Built with **HTML, CSS, and JavaScript**  
 - Modern UI/UX design with smooth scrolling and interactive sections  
 - Includes hero section, features, meals, pricing, and call-to-action  
-
-🔗 [GitHub Repository](https://github.com/FaresSoliman99/Omnifood)
+- **Live Demo:** [Click Here](https://faressoliman99.github.io/Omnifood/)  
+- **GitHub:** [Repository](https://github.com/FaresSoliman99/Omnifood)
 
 ---
 
@@ -63,9 +49,9 @@ A fully responsive landing page for a healthy food delivery service.
 Responsive landing page for a library showcasing featured books and categories.  
 - Built with **HTML, CSS, and JavaScript**  
 - Structured, user-friendly layout with focus on readability and usability  
-- Emphasizes responsive design and semantic HTML structure
-
-🔗 [GitHub Repository](https://github.com/FaresSoliman99/Library)
+- Emphasizes responsive design and semantic HTML structure  
+- **Live Demo:** [Click Here](https://faressoliman99.github.io/Library/)  
+- **GitHub:** [Repository](https://github.com/FaresSoliman99/Library)
 
 ---
 
@@ -74,14 +60,15 @@ Responsive landing page for a library showcasing featured books and categories.
 ✔️ I write **clean, maintainable, and semantic code**  
 ✔️ I follow **modern front-end best practices**  
 ✔️ I build **responsive and accessible interfaces**  
-✔️ I am **passionate about continuous learning**, currently improving in **React and modern JavaScript frameworks**  
+✔️ I am **passionate about continuous learning**, currently improving in **React, Tailwind CSS, and modern JS frameworks**  
 ✔️ I enjoy **collaborating with teams** and delivering high-quality results  
 
 ---
 
 ## 📩 Let’s Connect
 
-Whether you have a question, an opportunity, or just want to chat, feel free to reach out!
+Whether you have a question, an opportunity, or just want to chat, feel free to reach out!  
 
-📧 fareselsokary8@gmail.com  
-📱 01097355026
+[![Email](https://img.shields.io/badge/Email-fareselsokary8@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:fareselsokary8@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FaresSoliman-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/faressoliman99/)  
+[![GitHub](https://img.shields.io/badge/GitHub-FaresSoliman-black?logo=github&style=for-the-badge)](https://github.com/FaresSoliman99)
